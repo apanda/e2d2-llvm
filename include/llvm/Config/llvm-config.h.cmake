@@ -95,4 +95,6 @@
 /* Define if we link Polly to the tools */
 #cmakedefine LINK_POLLY_INTO_TOOLS
 
+#define MONO_API_VERSION 4
+
 #endif
